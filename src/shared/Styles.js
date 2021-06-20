@@ -8,16 +8,8 @@ export const theme = {
    colors: {
       primary: "#03e9f4",
       secondary: "#fff",
-      // gray200: "#edf2f7",
-      // gray300: "#e2e8f0",
-      // gray400: "#cbd5e0",
       gray500: "#a0aec0",
-      // gray800: "#2d3748",
-      // green: "#009688",
-      // blue: "#5677fc",
-      // blueDark: "#3b50ce",
       lineare1: "linear-gradient(#141e30, #243b55)",
-      // dark1: "rgba(0,0,0,.5)",
    }
 }
 
