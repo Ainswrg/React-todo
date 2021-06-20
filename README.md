@@ -1,3 +1,3 @@
 # Stack:
 
-https://img.shields.io/badge/<LABEL>-<ReactJS(useState(), useEffect(), useReducer(), Context)>-<COLOR>
+![ReactJS](https://img.shields.io/badge/-<ReactJS>-<blue>)
