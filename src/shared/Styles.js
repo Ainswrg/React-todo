@@ -27,8 +27,8 @@ export const Global = createGlobalStyle`
 export const StyledApp = styled.div`
    text-align: center;
    box-sizing: border-box;
+   min-height: 100vh;
    background: ${props => props.color || props.theme.colors.lineare1};
-   height: 100vh;
    color: ${props => props.color || props.theme.colors.secondary};
 `;
 
