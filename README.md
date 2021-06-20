@@ -1,3 +1,2 @@
-# Stack:
-
-![ReactJS](https://img.shields.io/badge/-<ReactJS>-<blue>)
+### Stack:
+![ReactJs](https://img.shields.io/badge/-ReactJS-090909?style=for-the-badge&logo=React)
